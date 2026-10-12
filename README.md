@@ -4,4 +4,10 @@ Site statique de présentation, confidentialité et conditions pour l'applicatio
 
 Uniquement des documents publics : aucun jeton OAuth, aucune configuration du tableau de bord et aucun accès à l'application locale.
 
-Hébergement prévu : GitHub Pages, branche `main`, dossier racine.
+Hébergement : GitHub Pages, branche `main`, dossier racine.
+
+Accueil : https://alex128-ai.github.io/jarvis-politique/
+
+Confidentialité : https://alex128-ai.github.io/jarvis-politique/confidentialite.html
+
+Conditions : https://alex128-ai.github.io/jarvis-politique/conditions.html
